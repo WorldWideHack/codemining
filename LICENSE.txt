@@ -1,4 +1,5 @@
-Unless otherwise annotated, all creative work in this repository is subject to the terms of the Mozilla Public License, v. 2.0: https://mozilla.org/MPL/2.0/.
+Unless otherwise annotated, all creative work in this repository is (c) Dean Thompson
+and subject to the terms of the Mozilla Public License, v. 2.0: https://mozilla.org/MPL/2.0/.
 
 ---------------------------------------
 Mozilla Public License
